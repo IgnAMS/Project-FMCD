@@ -1,7 +1,7 @@
 import cv2
 import os
 
-cam = cv2.VideoCapture("I_need_a_hero.mp4")
+cam = cv2.VideoCapture("great.mp4")
 
 try:
     os.remove('data')
